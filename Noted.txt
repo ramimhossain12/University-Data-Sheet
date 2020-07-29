@@ -1,0 +1,9 @@
+[{"student":"7000","employee":"500","depertment":"Computer Science And Engineering","university":"Daffodil International University","headofdepertment":"Akter Hossain"},{"student":"5000","employee":"300","depertment":"Software Engineering","university":"North South University","headofdepertment":"Ramim Hossain"},{"student":"3000","employee":"200","depertment":"Civil Engineering","university":"Dhaka University","headofdepertment":"Hridoy Khan"}]
+
+
+
+
+
+
+Free APi Hit :
+https://api.npoint.io/
